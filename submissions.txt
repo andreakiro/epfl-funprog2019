@@ -1,0 +1,10 @@
+This is how you should submit your code on the EPFL GitLab servers.
+Use command 'cat submissions.txt' on your terminal to display this everytime you need it.
+
+git status -- display status
+git diff -- display changed lines
+git commit -am "My message" -- add and commit changes
+git pull -- pull from server
+git push -- push on server
+
+message template : sub EFPL-pseudo homework x
